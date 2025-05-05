@@ -178,7 +178,7 @@ cython_debug/
 data/raw*
 data/processed*
 data/documentation*
-analisis_notebooks*
+analisis_notebooks/*
 
 # excepto los .gitkeep dentro de cada subdirectorio
 !data/raw/.gitkeep
