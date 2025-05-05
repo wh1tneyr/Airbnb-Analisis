@@ -175,9 +175,11 @@ cython_debug/
 
 
 # Ignorar todo lo que haya dentro de data/
-data/*
+data/raw*
+data/processed*
+data/documentation*
 
-# Pero no ignores los subdirectorios
-!data/**/
-# Y no ignores los .gitkeep dentro de cada subdirectorio
-!data/**/.gitkeep
+# excepto los .gitkeep dentro de cada subdirectorio
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/documentation/.gitkeep
