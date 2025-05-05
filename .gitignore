@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignorar todo lo que haya dentro de data/
+data/*
+
+# Pero no ignores los subdirectorios
+!data/**/
+# Y no ignores los .gitkeep dentro de cada subdirectorio
+!data/**/.gitkeep
