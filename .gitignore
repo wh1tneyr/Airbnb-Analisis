@@ -179,9 +179,11 @@ data/raw*
 data/processed*
 data/documentation*
 analisis_notebooks/*
+outputs/graphics*
 
 # excepto los .gitkeep dentro de cada subdirectorio
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/documentation/.gitkeep
 !analisis_notebooks/.gitkeep
+!outputs/graphics/.gitkeep
