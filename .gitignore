@@ -180,7 +180,6 @@ data/processed*
 data/documentation*
 notebooks/procesamiento_datos*
 outputs/graphics*
-notebooks/*
 
 # excepto los .gitkeep dentro de cada subdirectorio
 !data/raw/.gitkeep
@@ -188,4 +187,3 @@ notebooks/*
 !data/documentation/.gitkeep
 !notebooks/procesamiento_datos.gitkeep
 !outputs/graphics/.gitkeep
-!notebooks/.gitkeep
