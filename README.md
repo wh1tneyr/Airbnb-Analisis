@@ -31,21 +31,26 @@ A través del estudio de los datos, se busca responder a preguntas clave como:
 #### 🚀 Cómo ejecutar el proyecto
 
 - Clona este repositorio en tu máquina local:
+
 ```git clone https://github.com/wh1tneyr/Airbnb-Analisis.git```
 ```cd Airbnb-Analisis```
 
 - Crea un entorno virtual (opcional pero recomendado):
+
 ```python -m venv venv```
 ```En macOS: source venv/bin/activate  # En Windows: venv\Scripts\activate```
 
 - Instala las dependencias necesarias:
+
 ```pip install -r requirements.txt```
 
-- Ejecuta los notebooks:
-```jupyter notebook```
+- Ejecuta el notebook:
+
+```jupyter notebook notebooks/analisis_exploratorio.ipynb```
+
 
 #### Abre el archivo dentro de la carpeta notebooks/ para explorar el análisis.
-🔍 Aalisis_exploratorio
+🔍 Analisis_exploratorio.ipynb
 
 #### 📌 Conclusión
 
@@ -57,5 +62,7 @@ Este estudio busca ofrecer una visión integral del mercado de Airbnb en Santiag
 #### 📬 Contacto
 
 Whitney Rios
+
 📧 rioswhit@gmail.com
+
 🔗 GitHub: wh1tneyr
