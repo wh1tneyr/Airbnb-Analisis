@@ -40,8 +40,8 @@ A través del estudio de los datos, se busca responder a preguntas clave como:
 
 ```python -m venv venv```
 
-- En macOS: ```source venv/bin/activate```  
-- En Windows: ```venv\Scripts\activate```
+En macOS: ```source venv/bin/activate```  
+En Windows: ```venv\Scripts\activate```
 
 - Instala las dependencias necesarias:
 
